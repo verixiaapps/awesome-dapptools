@@ -82,3 +82,4 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 
 ## Other
 - [Official Chatroom](https://dapphub.chat/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
